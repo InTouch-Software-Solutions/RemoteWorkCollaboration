@@ -1,16 +1,20 @@
-# remote_work_collaboration
+## Remote Work Collaboration
+Description: Develop tools to enhance collaboration, communication, and
+productivity for remote teams working across different time zones and
+locations.
 
-A new Flutter project.
+## Solution: Checkedin 
+Tool to enhance collaboration, communication, and productivity for remote teams working
 
-## Getting Started
+* Create new tasks
+* Assign tasks to team members
+* Schedule events and meetings
+* Project creation
+* Chat groups for project teams 
+* Authentication by Firebase
+* Database by Firebase Firestore
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TechStack
+* Flutter 
+* Firebase
+* Zegocloud
